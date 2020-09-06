@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Category
+comment1.params=
+comment1.target=Category()
+comment2.params=title\ desc
+comment2.target=void\ add(java.lang.String,\ java.lang.String)
+comment3.params=visible
+comment3.target=void\ setVisible(boolean)
+comment4.params=visible
+comment4.target=boolean\ getVisible(boolean)
+numComments=5
